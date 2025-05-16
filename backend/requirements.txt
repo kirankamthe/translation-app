@@ -1,0 +1,9 @@
+flask
+flask-cors
+pandas
+python-docx
+openpyxl
+transformers
+torch
+spacy
+language-tool-python
